@@ -1,0 +1,8 @@
+{
+    "sql_db_host": "Localhost",
+    "sql_db_user": "root",
+    "sql_db_pass": "",
+    "sql_db_name": "caregiverreview",
+    "site_url": "http://localhost/caregiverreview",
+    "purchase_code": "a7b2be7d-8f8c-4d03-b47b-19626b107a98"
+}
