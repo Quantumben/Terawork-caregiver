@@ -1825,7 +1825,7 @@ $(function() {
                         <?php } ?>
                         <?php if ($is_admin == true) { ?>
                         <li>
-                            <a href="http://docs.wowonder.com/#faq" target="_blank">
+                            <a href="https://thrilldigitals.com" target="_blank">
                                 <span class="nav-link-icon">
                                     <i class="material-icons">more_vert</i>
                                 </span>
